@@ -5,6 +5,7 @@
         <content>
 
         <Button id="er" text="hi" ></Button>
+        <Input id="ts" ></Input>
         
         </content>
     </Page>
