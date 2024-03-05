@@ -6,6 +6,7 @@
 
         <Button id="er" text="hi" ></Button>
         <Input id="ts" ></Input>
+        <Input id="t1" ></Input>
         
         </content>
     </Page>
